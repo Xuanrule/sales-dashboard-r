@@ -3,6 +3,11 @@
 
 Interactive sales data dashboard built with **R + Shiny + SQLite**, featuring dark-mode UI and SQL-driven data queries.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bede00d5-5eae-4657-8ce0-5c3cddc20bbf" width="700">
+</div>
+
+
 ## ✨ Features
 
 - **KPI Cards** — Total revenue, order count, avg order value, top category
