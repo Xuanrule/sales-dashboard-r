@@ -1,3 +1,4 @@
+👉 [简体中文](./README_CN.md)
 # 📊 Sales Analytics Dashboard
 
 Interactive sales data dashboard built with **R + Shiny + SQLite**, featuring dark-mode UI and SQL-driven data queries.
